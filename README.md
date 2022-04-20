@@ -1,4 +1,4 @@
-# Mixture Density Network in PyTorch with Full Covariance Support
+# Mixture Density Network in PyTorch with Full Covariance
 
 Implementation of [Mixture Density Network](https://publications.aston.ac.uk/id/eprint/373/1/NCRG_94_004.pdf) in PyTorch with full covariance matrix support.
 
