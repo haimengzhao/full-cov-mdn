@@ -40,7 +40,11 @@ samples = model.sample(x)
 
 See [`example.ipynb`](./example.ipynb) for training a 2 component full covariance MDN with the following data:
 
-$x\sim\text{Uniform}(0, 1)$ and $\mathbb{R}^2\ni\text{data}\sim $ the following
+$$x\sim\text{Uniform}(0, 1)$$ 
+
+and
+
+$$\mathbb{R}^2\ni\text{data}\sim \text{the following figure} $$ 
 
 ![Data](./example.png)
 
