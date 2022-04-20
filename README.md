@@ -1,5 +1,7 @@
 # Mixture Density Network in PyTorch with Full Covariance
 
+[![DOI](https://zenodo.org/badge/483535638.svg)](https://zenodo.org/badge/latestdoi/483535638)
+
 Implementation of [Mixture Density Network](https://publications.aston.ac.uk/id/eprint/373/1/NCRG_94_004.pdf) in PyTorch with full covariance matrix support.
 
 The full covariance matrix is implemented via Cholesky decomposition with `torch.distributions.MultivariateNormal`. See [this document](https://pytorch.org/docs/stable/distributions.html#multivariatenormal) for details.
